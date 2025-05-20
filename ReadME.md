@@ -1,4 +1,4 @@
-# Unsupervised KL Divergence Estimation for Diffusion Priors 
+# Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models
 
 This repository provides code to estimate distribution shift in terms of KL divergence directly from measurements in inverse problems using diffusion models—**without requiring access to clean images**.
 
