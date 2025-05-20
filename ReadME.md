@@ -1,6 +1,6 @@
-# Unsupervised KL Divergence Estimation for Diffusion Priors (Anonymous Submission)
+# Unsupervised KL Divergence Estimation for Diffusion Priors 
 
-This repository accompanies our NeurIPS 2025 submission. It provides code to estimate distribution shift in terms of KL divergence directly from measurements in inverse problems using diffusion models—**without requiring access to clean images**.
+This repository provides code to estimate distribution shift in terms of KL divergence directly from measurements in inverse problems using diffusion models—**without requiring access to clean images**.
 
 ---
 
